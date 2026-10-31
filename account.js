@@ -9,9 +9,9 @@ var website_name = "KOT BAZAR";
 var telegram_channel_link = "https://t.me/+juPJXzTet6tiYzdl";
 
 // =======================================================
-// TELEGRAM GROUP LINK
+// ADMIN WHATSAPP NUMBER
 // =======================================================
-var telegram_group_link = "https://t.me/+juPJXzTet6tiYzdl";
+var admin whatsapp number  = "01568331268";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
