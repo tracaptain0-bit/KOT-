@@ -21,7 +21,7 @@ var youtube_channel_link = "YouTube channel link";
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `সবথেকে কম দামে TOPUP করার জন্য সেরা ওয়েবসাইট
+var notification_text = `সবথেকে কম দামে TOPUP করার জন্য সেরা WEBSITE 
 ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
-অর্ডার করুন নিশ্চিন্তে OK♥️`;
+অর্ডার করুন নিশ্চিন্তে OK TUHIN BHAI♥️`;
  
