@@ -1,0 +1,20 @@
+{
+  "logo": null,
+  "ffBanner": null,
+  "ffPackages": null,
+  "banners": null,
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": ""
+    },
+    {
+      "label": "ADMIN SUPPORT",
+      "url": "https://t.me/kotadmin71"
+    },
+    {
+      "label": "YouTube",
+      "url": ""
+    }
+  ]
+}
